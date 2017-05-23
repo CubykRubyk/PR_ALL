@@ -1,1 +1,1 @@
-# PR_ALL
+# Lucrari de laborator la PR
