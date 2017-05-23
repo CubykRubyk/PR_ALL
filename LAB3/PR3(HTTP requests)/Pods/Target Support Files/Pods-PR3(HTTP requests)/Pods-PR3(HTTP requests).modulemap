@@ -1,0 +1,6 @@
+framework module Pods_PR3_HTTP_requests_ {
+  umbrella header "Pods-PR3(HTTP requests)-umbrella.h"
+
+  export *
+  module * { export * }
+}
